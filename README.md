@@ -49,16 +49,6 @@ venv
 And, Then we need to sign up/Login on to heroku and create an app, and after creating an app you need to install Heroku.exe (For windows) and run a list of command you need to run in your terminal that will be listed into your app dashboard.
 
 ### HOST
-After doint all the above process you will get a website where your app will run. You can find my webapp at [https://mymovierecomendation.herokuapp.com/](https://mymovierecomendation.herokuapp.com/) which will look like something like this.
+After doint all the above process you will get a website where your app will run. You can find my webapp at [https://myiplpredictor.herokuapp.com/](https://mymovierecomendation.herokuapp.com/) which will look like something like this.
 
-![This is an image](images/Screenshot.png)
-
-
-
-
-
-
-
-
-
-https://myiplpredictor.herokuapp.com/
+![This is an image](images/screenshot_ipl.png)
